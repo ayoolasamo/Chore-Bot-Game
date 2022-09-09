@@ -27,7 +27,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/ayoolasamo/Chore-Bot-Game/blob/master/Capture.PNG)
 
 The demo of this project was depolyed on netlify it can be viewed by clicking the demo link above, while creating this game on a webpage I was able to make improvement on my use of 
 functions and condition statement. It was so exiting to create a little game of my own
